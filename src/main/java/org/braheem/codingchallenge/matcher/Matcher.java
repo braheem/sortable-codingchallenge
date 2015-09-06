@@ -46,7 +46,7 @@ import com.google.common.collect.Multimap;
 public class Matcher {
 
 	//results file to quickly skim over each match of listing to product
-	private static File fvalidate = new File("./validate/listingmatches.txt");
+	private static File fvalidate = new File("./matchesforInspection.txt");
 	//output file for submission
 	private static File fout = new File("./output.txt");
 	
