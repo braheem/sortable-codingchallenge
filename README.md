@@ -4,6 +4,7 @@ http://sortable.com/challenge/
 You may substitute your own listings text file by placing it in src/main/resources directory and either specifying the name when invoking with sbt or modifying the pom.xml (if executing with maven).
 
 **You can just clone this repo and run "go.sh"**
+	-See the generated "output.txt" file
 
 To execute with Maven:
 
