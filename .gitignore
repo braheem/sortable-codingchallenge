@@ -50,5 +50,4 @@ Temporary Items
 /target/
 project/
 output.txt
-out.txt
-/validate/
+matchesforInspection.txt
